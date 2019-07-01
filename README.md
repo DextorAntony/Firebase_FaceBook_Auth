@@ -1,5 +1,8 @@
 # Firebase_FaceBook_Auth
 
+   ![Alt](https://www.gstatic.com/devrel-devsite/v595dc2b5326ecd7de309fb4a71a7facdb2414a46fa087cc37cc0f175714dd5bb/images/firebase/touchicon-180.png)
+ 
+ 
  You can let your users authenticate with Firebase using their Facebook accounts by integrating Facebook Login into your app.
  
  # Before you begin :
