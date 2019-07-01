@@ -1,0 +1,2 @@
+rootProject.name='Firebase FaceBook Auth'
+include ':app'
